@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000">
+
+    <RelativeLayout
+        android:id="@+id/choose_Pic_way"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#0000"
+            android:orientation="vertical">
+
+            <Button
+
+                android:id="@+id/takePhoto"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="95px"
+                android:background="@drawable/btn_user"
+                android:text="拍照"
+                android:textColor="@color/login_reg"
+                android:textSize="36px" />
+
+            <View style="@style/DividerHorizontal" />
+
+            <Button
+                android:id="@+id/choosePhoto"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="95px"
+                android:background="@drawable/btn_user"
+                android:gravity="center"
+                android:text="从相册选择"
+                android:textColor="@color/login_reg"
+                android:textSize="36px" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8px"
+                android:background="@color/nomal_sex" />
+
+            <Button
+                android:id="@+id/btn_cancel"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="95px"
+                android:background="@drawable/btn_user"
+                android:gravity="center"
+                android:text="取消"
+                android:textColor="@color/login_reg"
+                android:textSize="36px" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

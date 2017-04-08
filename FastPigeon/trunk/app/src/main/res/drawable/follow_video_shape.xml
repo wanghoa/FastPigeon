@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false" >
+
+    <solid android:color="#cfcaca" />
+    <padding
+        android:left="2dp"
+        android:top="5dp"
+        android:right="2dp"
+        android:bottom="5dp" />
+    //填充背景
+    <solid
+        android:color="#cfcaca" />
+    //边线
+    <stroke
+        android:width="0dp"
+        android:color="@android:color/white" />
+    <size android:width="25dp"
+          android:height="25dp" />
+</shape>

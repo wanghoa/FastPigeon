@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#a3abac">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="#ffffff"
+        android:orientation="horizontal">
+
+        <!-- android:paddingLeft="20dp"-->
+        <!--   <ImageView
+               android:id="@+id/back_iv"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_vertical"
+               android:layout_marginLeft="10dp"
+               android:paddingRight="15dp"
+               android:src="@mipmap/arrow_left"/>
+            />-->
+
+        <EditText
+            android:id="@+id/search_txt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/input_bg"
+            android:drawableLeft="@drawable/icon_search"
+            android:drawablePadding="6dp"
+            android:gravity="center_vertical"
+            android:hint="震惊！彩票中了一亿美元"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:textColorHint="#A5A5A5"
+            android:textCursorDrawable="@null"
+            android:textSize="@dimen/font_small" />
+
+        <!-- <TextView
+             android:id="@+id/search_tv"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:paddingTop="3dp"
+             android:paddingLeft="5dp"
+             android:paddingRight="8dp"
+             android:textColor="#102abe"
+             android:text="搜索"  />-->
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+    <!--<ImageView
+        android:id="@+id/titlebar_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:src="@mipmap/arrow_left"
+        android:layout_centerVertical="true"/>
+
+       &lt;!&ndash; android:layout_weight="1"&ndash;&gt;
+    <ImageView
+
+       android:layout_alignLeft="@id/search_et"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:src="@mipmap/icon_search"/>
+    <EditText
+        android:id="@+id/search_et"
+        android:layout_width="0"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+
+        android:hint="好好学习天天向上"
+        android:background="@drawable/shape_search_edit"
+
+        />
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentRight="true"
+       android:layout_centerVertical="true"
+       android:layout_marginRight="20dp"/>-->

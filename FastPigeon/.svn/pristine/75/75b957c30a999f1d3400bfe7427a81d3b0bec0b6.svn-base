@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/qiang/work/WorkProjectFolder/android_folder/as_workspace/Test/FastPigeon/20170407/FastPigeon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color-v23/abc_tint_default.xml"
+    }
+]
